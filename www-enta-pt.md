@@ -38,7 +38,7 @@ ln -s /etc/pki/tls/private private
 ```
 ◽ Put your Certificates on /etc/ssl/certs and your keys on /etc/ssl/private ❗
 
-## ▶️ FTP (proftpd)
+## ▶️ FTP (vsftpd)
 
 ◽ Install FTP ➡️ `yum install vsftp`
 
