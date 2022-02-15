@@ -2,7 +2,7 @@
 
 # 🖥️ Terminal (Termius/Putty)
 
-◽ Change your hostname -> ` sudo hostnamectl set-hostname central.inova.pt`
+◽ Change your hostname -> ` sudo hostnamectl set-hostname sales.inova.pt`
 
 ◽ Change to Superuser -> `sudo su - `
 
