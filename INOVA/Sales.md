@@ -82,7 +82,7 @@ hosts:          files dns nis
 ``` 
 sudo apt install -y xfce4 xfce4-goodies
 
-sudo apt install -y xrdp chromium-browser filezilla
+sudo apt install -y xrdp chromium-browser filezilla thunderbird
 
 sudo adduser xrdp ssl-cert
 
@@ -97,7 +97,13 @@ cp /home/ubuntu/.xsession /mnt/raid5/marketing/.xsession
 chown sales:sales /mnt/raid5/sales/.xsession
 chown marketing:marketing /mnt/raid5/marketing/.xsession
 ```  
+## FTP
 
+◽ To test FTP ,go to Graphic Interface, Open the Filezilla ,hosts, name server ➡️ www.inova.pt ,add your user and his Password and check if you login , if yes try to send a file.
+
+## Mail Server Test
+
+✔️ To check if its working ,login in the Graphic interface with the user you made ➡️ open thunderbird create an email with the server domain after @ ( sales@inova.pt)➡️ and try to send a mail to your own email.
    
 
 
